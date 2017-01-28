@@ -1,24 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="artumofficial.github.io" resolutions="1x" timestamp="1485526869468">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="artumofficial.github.io" resolutions="1x" timestamp="1485613150620">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4197060215" ref="about:downloads:links:index"/>
-    <file name="about.css" crc="3818309289" ref="about"/>
-    <file name="downloads.css" crc="137488712" ref="downloads"/>
-    <file name="links.css" crc="4192691084" ref="links"/>
-    <file name="index.css" crc="3875811254" ref="index"/>
+    <file name="master_a-master.css" crc="173282879" ref="about:downloads:links:index:media"/>
+    <file name="about.css" crc="93832487" ref="about"/>
+    <file name="downloads.css" crc="170484914" ref="downloads"/>
+    <file name="links.css" crc="255719801" ref="links"/>
+    <file name="index.css" crc="227791759" ref="index"/>
+    <file name="media.css" crc="3792176994" ref="media"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:links:downloads"/>
-    <file name="museutils.js" crc="163421577" ref="index:about:links:downloads"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:links:downloads"/>
-    <file name="museconfig.js" crc="36584860" ref="index:about:links:downloads"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:about:links:downloads"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:links:downloads"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:links:downloads"/>
-    <file name="require.js" crc="244322403" ref="index:about:links:downloads"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:links:downloads:media"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:links:downloads:media"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:links:downloads:media"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about:links:downloads:media"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:links:downloads:media"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:links:downloads:media"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:links:downloads:media"/>
+    <file name="require.js" crc="244322403" ref="index:about:links:downloads:media"/>
   </folder>
   <folder name="images">
-    <file name="logonew.png" crc="4198125355" seo="true" ref="index:about:links:downloads"/>
+    <file name="logonew.png" crc="4198125355" seo="true" ref="index:about:links:downloads:media"/>
     <file name="blank.gif" crc="4208392903" ref="downloads"/>
     <file name="u560.png" crc="473799230" ref="downloads"/>
     <file name="u560-r.png" crc="473799230" ref="downloads"/>
@@ -26,9 +27,18 @@
     <file name="u582-r.png" crc="422007810" ref="downloads"/>
     <file name="u573.png" crc="356163523" ref="downloads"/>
     <file name="u573-r.png" crc="356163523" ref="downloads"/>
+    <file name="20170109212435_1.jpg" crc="4039141078" seo="true" ref="media"/>
+    <file name="20161231013842_1.jpg" crc="63970858" seo="true" ref="media"/>
+    <file name="20170109212634_1.jpg" crc="3933758567" seo="true" ref="media"/>
+    <file name="20161225091236_1.jpg" crc="4120742970" seo="true" ref="media"/>
+    <file name="20170119203620_1.jpg" crc="4119529492" seo="true" ref="media"/>
+    <file name="20170102202709_1.jpg" crc="179011413" seo="true" ref="media"/>
+    <file name="20161231013921_1.jpg" crc="316016882" seo="true" ref="media"/>
+    <file name="20161225092846_1.jpg" crc="22848774" seo="true" ref="media"/>
   </folder>
-  <file name="index.html" crc="166650692" seo="true" mt="1485525448868" redirect="true"/>
-  <file name="about.html" crc="3939749224" seo="true" mt="1485526798688" redirect="true"/>
-  <file name="links.html" crc="4012723651" seo="true" mt="1485526744493" redirect="true"/>
-  <file name="downloads.html" crc="4235169091" seo="true" mt="1485526414836" redirect="true"/>
+  <file name="index.html" crc="72903202" seo="true" mt="1485613131250" redirect="true"/>
+  <file name="about.html" crc="3872692618" seo="true" mt="1485611551449" redirect="true"/>
+  <file name="links.html" crc="4093304623" seo="true" mt="1485611551449" redirect="true"/>
+  <file name="downloads.html" crc="3777421008" seo="true" mt="1485611551449" redirect="true"/>
+  <file name="media.html" crc="130449020" seo="true" mt="1485613074520" redirect="true"/>
 </manifest>

@@ -2,31 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://artumofficial.github.io/index.html</loc>
-    <lastmod>2017-01-27</lastmod>
+    <lastmod>2017-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://artumofficial.github.io/about.html</loc>
-    <lastmod>2017-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://artumofficial.github.io/links.html</loc>
-    <lastmod>2017-01-27</lastmod>
+    <loc>http://artumofficial.github.io/media.html</loc>
+    <lastmod>2017-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://artumofficial.github.io/downloads.html</loc>
-    <lastmod>2017-01-27</lastmod>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/links.html</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/about.html</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20170119203620_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20170109212634_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20161225091236_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20161225092846_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20170109212435_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20161231013842_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://artumofficial.github.io/images/logonew.png</loc>
-    <lastmod>2017-01-27</lastmod>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20170102202709_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://artumofficial.github.io/images/20161231013921_1.jpg</loc>
+    <lastmod>2017-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
