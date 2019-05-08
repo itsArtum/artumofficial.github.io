@@ -1,121 +1,50 @@
-<!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Latest compiled and minified CSS -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+ <!-- jQuery library -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+ <!-- Popper JS -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+ <!-- Latest compiled JavaScript -->
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="..\style.css">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Kanit|Sniglet" rel="stylesheet">
 <title>About</title>
-<link href="https://fonts.googleapis.com/css?family=Amaranth|Bungee+Hairline|Play" rel="stylesheet"> 
-<style>
-	h1{
-		font-family: 'Bungee Hairline', cursive;
-		text-align: center;
-		color: white;
-		font-size: 80pt;
-		margin: auto;
-		
-		
-	}
-	
-	h2{
-		font-family: 'Play', sans-serif;
-		text-align: center;
-		color: whitesmoke;
-		
-		
-	}
-	
-	p{
-		font-family: 'Amaranth', sans-serif;
-		text-align: center;
-		color: aliceblue;
-		
-	}
-	
-body {
-	background-color: #2D2D2D;
-	}
-	ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #111;
-}
-
-.active {
-    background-color: #622dff;
-}
-	body {margin: 0;}
-
-ul.topnav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-ul.topnav li {float: left;}
-
-ul.topnav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-ul.topnav li a:hover:not(.active) {background-color: #232323;}
-
-ul.topnav li a.active {background-color: #4CAF50;}
-
-ul.topnav li.right {float: right;}
-
-@media screen and (max-width: 600px){
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
-}
-	a {
-		font-family: 'Play', sans-serif;
-		
-	}
-</style>
 </head>
 
 <body>
-<center>
-	<ul>
-  <li><a href= "../index.html">Home</a></li>	
-	<li><a class="active"  href="about.html">About</a></li>
-  <li><a href="downloads.html">Downloads</a></li>
-  <li><a href="#contact">Contact</a></li>
- 
-</ul>
-	<h1>About</h1>
-	<p>I originally created this website to act as a repository for all of my different projects. </p>
-	<h2>Tools used:</h2>
-	</center>
-	<p>
-		- Gamemaker Studio (1 and 2)<br/>
-		- Piskel<br/>
-		- Bxfr<br/>
-		- LMMS<br/>
-	</p>
+  <script>
+  function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+} </script>
+  <div class="topnav" id="myTopnav">
+    <a href="..\index.html">Home</a>
+    <a href="#about" class="active">About</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="cd.html">Cargo Defence</a>
+    <a href="#unnamed">Coming soon...</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+  <center>
 
+  <h1>About</h1>
+  <p>This website is designed to house all of my projects. Some are browser based and others will need to be downloaded.</p>
+  </center>
 </body>
+
 </html>
